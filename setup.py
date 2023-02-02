@@ -376,7 +376,7 @@ if __name__ == "__main__":
             "clean": clean,
         },
         url="https://facebookresearch.github.io/xformers/",
-        python_requires=">=3.6",
+        python_requires=">=3.7",
         author="Facebook AI Research",
         author_email="oncall+xformers@xmail.facebook.com",
         long_description="XFormers: A collection of composable Transformer building blocks."
